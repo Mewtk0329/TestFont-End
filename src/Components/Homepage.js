@@ -93,7 +93,7 @@ function Homepage(props) {
             noWrap
             style={{ fontFamily: "Kanit" }}
           >
-            Album layout
+           Place List
           </Typography>
         </Toolbar>
 
